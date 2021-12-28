@@ -1,0 +1,15 @@
+html, body {
+    margin: 0px;
+}
+
+.nav-bar-wrapper{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6C3;
+
+}
+
+.LOGO {
+    font-size: 35px;
+}

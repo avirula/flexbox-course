@@ -1,0 +1,42 @@
+body {
+    margin:0;
+}
+
+.nav-bar-wrapper {
+    display:flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height:200px;
+    width: 100%;
+    align-items:center;
+        
+}.nav-link{
+    font-size: 25px;
+}
+.image-wrapper {
+    background-image: url(https://images8.alphacoders.com/463/thumb-1920-463477.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 200px;
+    height: 400px;
+}
+.nav-bar-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+    font-size: 25px;
+}
+
+.bottom-wrapper {
+  background-color: black;
+  color:white;
+  display:flex;
+  justify-content:space-around;
+  height:200px;
+  width:100%;
+  align-items:center;
+  font-size: 25px;
+}

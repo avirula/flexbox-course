@@ -1,0 +1,66 @@
+.background-wrapper {
+    background-image: linear-gradient(to left, black, rgb(61, 59, 59) );
+    height: 870px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.first-p {
+    font-family:'Lato', sans-serif;
+    color: rgb(201, 201, 201);
+    font-size: 3em;
+    text-align: left;
+    padding: 50px 80px;
+}
+.second-p {
+    font-family: 'Lato', sans-serif;
+    color: rgb(201, 201, 201);
+    font-size: 3em;
+    text-align: left;
+    padding: 50px 80px;
+}
+.first-p > .social {
+    font-weight: bold;
+    color: white;
+}
+.first-p > i {
+    color: rgb(248, 241, 176);
+}
+.buttons > .signup {
+    padding: 20px 40px;
+    font-size: 5rem;
+    background-color: rgb(94, 206, 94);
+    border-radius: 6px;
+    text-align: left;
+    margin-left: 80px;
+    position: relative;
+    top: 40px;
+}
+.buttons > .learn-more {
+    padding: 10px 40px;
+    font-size: 5rem;
+    color: white;
+    background-color: black;
+    border-radius: 6px;
+    text-align: left;
+    margin-left: 80px;
+    position: relative;
+    top: 40px;
+}
+.background-wrapper > .image-wrapper {
+    position: relative;
+    top: -224px;
+    right: 0px;
+}
+.background-wrapper > .image-wrapper > .text {
+    color: white;
+    font-size: 30px;
+    text-align: right;
+    position: relative;
+    right: 811px;
+    font-family: 'Lato', sans-serif;
+}
+.background-wrapper > .image-wrapper > .text > .colored {
+    color: rgb(124, 209, 235);
+    font-family: 'Lato', sans-serif;
+}
